@@ -1,5 +1,6 @@
 AndroidStaggeredGrid
 =====================
+瀑布流，类似蘑菇街
 
 An Android staggered grid view which supports multiple columns with rows of varying sizes.
 
